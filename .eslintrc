@@ -1,0 +1,28 @@
+{
+  "extends": "standard",
+  "plugins": [
+    "standard",
+    "promise",
+    "node",
+    "jest"
+  ],
+  "env": {
+    "jest/globals": true,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "indent": 0,
+    "no-tabs":0,
+    "semi": ["error", "always"],
+    "comma-dangle": ["error", "always-multiline"],
+    "no-var": ["error"],
+    "no-console": ["error", { "allow": ["info", "warn", "error"] }],
+    "require-await": ["error"],
+    "camelcase": "off"
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2018
+  }
+}
