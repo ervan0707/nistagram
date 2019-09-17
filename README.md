@@ -12,7 +12,7 @@ let ig = new Nistagram();
 
 (async() => {
   let session = await ig.login('username', 'password')
-  let x = await ig.getTimeLineFeed();
+  let x = await session.getTimeLineFeed();
   console.log(x)
 })()
 
@@ -23,7 +23,7 @@ const ig = new Nistagram.default();
 
 (async() => {
   let session = await ig.login('username', 'password')
-  let x = await ig.getTimeLineFeed();
+  let x = await session.getTimeLineFeed();
   console.log(x)
 })()
 ```
