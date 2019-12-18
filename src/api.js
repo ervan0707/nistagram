@@ -118,6 +118,32 @@ class Api {
 		}
 	}
 
+	async getStoryByUserId(idUser) {
+    const dataUrl = [];
+    let {
+      data
+    } = await this.fetchApi(_config.default.GRAPHQL_URL.storyByUserId(idUser), 'GET');
+
+    if (data.reels_media.length > 0) {
+      let {
+        items
+      } = data.reels_media[0];
+
+      for (let i = 0; i < items.length; i++) {
+        let resources = items[i].is_video ? 'video_resources' : 'display_resources';
+        dataUrl.push({
+          reelMediaId: items[i].id,
+          latestReelMedia: data.reels_media[0].latest_reel_media,
+          reelMediaOwnerId: items[i].owner.id,
+          reelMediaTakenAt: items[i].taken_at_timestamp,
+          media: items[i][resources][items[i][resources].length - 1].src
+        });
+      }
+
+      return dataUrl;
+    }
+  }
+
 	async uploadPhoto (path, caption) {
 		const uploadID = new Date().getTime();
 		let result = await this.configurePhoto(path, uploadID);
