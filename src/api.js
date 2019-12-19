@@ -120,8 +120,8 @@ class Api {
   async getStoryByUserId (idUser) {
     const dataUrl = [];
     let {
-      data,
-    } = await this.fetchApi(config.default.GRAPHQL_URL.storyByUserId(idUser), 'GET');
+      data
+    } = await this.fetchApi(config.GRAPHQL_URL.storyByUserId(idUser), 'GET');
 
     if (data.reels_media.length > 0) {
       let {
