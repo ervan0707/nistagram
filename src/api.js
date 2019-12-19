@@ -122,7 +122,7 @@ class Api {
     const dataUrl = [];
     let {
       data
-    } = await this.fetchApi(config.default.GRAPHQL_URL.storyByUserId(idUser), 'GET');
+    } = await this.fetchApi(config.GRAPHQL_URL.storyByUserId(idUser), 'GET');
 
     if (data.reels_media.length > 0) {
       let {
