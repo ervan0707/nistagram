@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["esnext"],
+    "module": "commonjs",
+    "sourceMap": true,
+    "isolatedModules": true,
+    "strict": true,
+    "declaration": true,
+
+    "rootDir": "./src",
+    "outDir": "./lib",
+
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
