@@ -1,0 +1,14 @@
+{
+  "sessionID": "1826237935%3AfephhXNLq3Dz1H%3A9%3AAYeR6ecnjLSREqAVWUakkkc0-v_KbaTx6N34MYnXCg; Domain=.instagram.com; expires=Wed, 23-Aug-2023 14:36:29 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure",
+  "csrfToken": "HUT7yOGdflQjnUFbBDcsvrcxmiZfqWSc",
+  "uuid": "f93bd5030c114803ac35da186a5aede7",
+  "id": 1826237935,
+  "csrftoken": "HUT7yOGdflQjnUFbBDcsvrcxmiZfqWSc",
+  "session": [
+    "csrftoken=HUT7yOGdflQjnUFbBDcsvrcxmiZfqWSc; Domain=.instagram.com; expires=Tue, 22-Aug-2023 14:36:29 GMT; Max-Age=31449600; Path=/; Secure",
+    "rur=\"EAG\\0541826237935\\0541692801389:01f7d0795988108d13b1d06490d949313aaaedf7e7ab1a250f7a40022e7e196fb61f9487\"; Domain=.instagram.com; HttpOnly; Path=/; Secure",
+    "mid=YwTl6wABAAHRPa4XvFYROY1157X4; Domain=.instagram.com; expires=Thu, 22-Aug-2024 14:36:29 GMT; Max-Age=63072000; Path=/; Secure",
+    "ds_user_id=1826237935; Domain=.instagram.com; expires=Mon, 21-Nov-2022 14:36:29 GMT; Max-Age=7776000; Path=/; Secure",
+    "sessionid=1826237935%3AfephhXNLq3Dz1H%3A9%3AAYeR6ecnjLSREqAVWUakkkc0-v_KbaTx6N34MYnXCg; Domain=.instagram.com; expires=Wed, 23-Aug-2023 14:36:29 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure"
+  ]
+}

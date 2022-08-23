@@ -7,7 +7,6 @@
     "isolatedModules": true,
     "strict": true,
     "declaration": true,
-
     "rootDir": "./src",
     "outDir": "./lib",
 
