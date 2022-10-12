@@ -1,14 +1,14 @@
 {
-  "sessionID": "1826237935%3AfephhXNLq3Dz1H%3A9%3AAYeR6ecnjLSREqAVWUakkkc0-v_KbaTx6N34MYnXCg; Domain=.instagram.com; expires=Wed, 23-Aug-2023 14:36:29 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure",
-  "csrfToken": "HUT7yOGdflQjnUFbBDcsvrcxmiZfqWSc",
-  "uuid": "f93bd5030c114803ac35da186a5aede7",
+  "sessionID": "1826237935%3A0d3FGtmog78r5G%3A22%3AAYchnaye0xgxqKqSKJtQW2X-J5DCNiWNBOJ0JDdmgQ; Domain=.instagram.com; expires=Sat, 02-Sep-2023 08:30:46 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure",
+  "csrfToken": "EakQaaJXWFaZRP0CEoo4Uoj1hLwMmWsS",
+  "uuid": "3eda97c730124b2281e9d54b3189c682",
   "id": 1826237935,
-  "csrftoken": "HUT7yOGdflQjnUFbBDcsvrcxmiZfqWSc",
+  "csrftoken": "EakQaaJXWFaZRP0CEoo4Uoj1hLwMmWsS",
   "session": [
-    "csrftoken=HUT7yOGdflQjnUFbBDcsvrcxmiZfqWSc; Domain=.instagram.com; expires=Tue, 22-Aug-2023 14:36:29 GMT; Max-Age=31449600; Path=/; Secure",
-    "rur=\"EAG\\0541826237935\\0541692801389:01f7d0795988108d13b1d06490d949313aaaedf7e7ab1a250f7a40022e7e196fb61f9487\"; Domain=.instagram.com; HttpOnly; Path=/; Secure",
-    "mid=YwTl6wABAAHRPa4XvFYROY1157X4; Domain=.instagram.com; expires=Thu, 22-Aug-2024 14:36:29 GMT; Max-Age=63072000; Path=/; Secure",
-    "ds_user_id=1826237935; Domain=.instagram.com; expires=Mon, 21-Nov-2022 14:36:29 GMT; Max-Age=7776000; Path=/; Secure",
-    "sessionid=1826237935%3AfephhXNLq3Dz1H%3A9%3AAYeR6ecnjLSREqAVWUakkkc0-v_KbaTx6N34MYnXCg; Domain=.instagram.com; expires=Wed, 23-Aug-2023 14:36:29 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure"
+    "csrftoken=EakQaaJXWFaZRP0CEoo4Uoj1hLwMmWsS; Domain=.instagram.com; expires=Fri, 01-Sep-2023 08:30:46 GMT; Max-Age=31449600; Path=/; Secure",
+    "rur=\"EAG\\0541826237935\\0541693643446:01f7735067e30910ec0bd70c26d52025afaaadd54f115255033b55b4d21e34992d845a6f\"; Domain=.instagram.com; HttpOnly; Path=/; Secure",
+    "mid=YxG_NQABAAFvmUzlC08TiCxtS-tR; Domain=.instagram.com; expires=Sun, 01-Sep-2024 08:30:46 GMT; Max-Age=63072000; Path=/; Secure",
+    "ds_user_id=1826237935; Domain=.instagram.com; expires=Thu, 01-Dec-2022 08:30:46 GMT; Max-Age=7776000; Path=/; Secure",
+    "sessionid=1826237935%3A0d3FGtmog78r5G%3A22%3AAYchnaye0xgxqKqSKJtQW2X-J5DCNiWNBOJ0JDdmgQ; Domain=.instagram.com; expires=Sat, 02-Sep-2023 08:30:46 GMT; HttpOnly; Max-Age=31536000; Path=/; Secure"
   ]
 }
